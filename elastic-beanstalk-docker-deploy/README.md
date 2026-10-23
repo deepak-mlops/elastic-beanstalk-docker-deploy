@@ -76,7 +76,7 @@ docker build -t user_name/eb-docker-app:latest .
 
 ```bash
 docker login
-docker push deepak8103/eb-docker-app:latest
+docker push user_name/eb-docker-app:latest
 ```
 
 ### 3. Point Elastic Beanstalk at the image
@@ -125,7 +125,7 @@ eb open
 Whenever the app changes:
 
 ```bash
-docker build -t deepak8103/eb-docker-app:latest .
+docker build -t user_name/eb-docker-app:latest .
 docker push user_name/eb-docker-app:latest
 eb deploy
 ```
