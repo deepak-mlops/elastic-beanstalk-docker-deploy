@@ -166,5 +166,5 @@ Multiple environments running side by side under the same AWS account.
 ## Author
 
 **Deepak Otari**
-Final-year Computer Engineering student, JIT Nashik (SPPU) — targeting DevOps / Cloud / AI-ML roles.
+Targeting DevOps / Cloud / AI-ML roles.
 GitHub: [@deepak-mlops](https://github.com/deepak-mlops)
